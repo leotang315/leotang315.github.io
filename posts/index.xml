@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>LoveIt</title>
-        <link>https://github.com/leotang315/leotang315.github.io/</link>
-        <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Jan 2024 22:12:50 &#43;0800</lastBuildDate>
-            <atom:link href="https://github.com/leotang315/leotang315.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - LoveIt</title>
+        <link>https://github.com/leotang315/leotang315.github.io/posts/</link>
+        <description>All Posts | LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Jan 2024 22:12:50 &#43;0800</lastBuildDate><atom:link href="https://github.com/leotang315/leotang315.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Demo</title>
     <link>https://github.com/leotang315/leotang315.github.io/demo/</link>
     <pubDate>Mon, 22 Jan 2024 22:12:50 &#43;0800</pubDate>
