@@ -1,24 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>LoveIt</title>
-        <link>https://github.com/leotang315/leotang315.github.io/</link>
+        <link>https://leotang315.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Jan 2024 22:12:50 &#43;0800</lastBuildDate>
-            <atom:link href="https://github.com/leotang315/leotang315.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://leotang315.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Demo</title>
-    <link>https://github.com/leotang315/leotang315.github.io/demo/</link>
+    <link>https://leotang315.github.io/demo/</link>
     <pubDate>Mon, 22 Jan 2024 22:12:50 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://github.com/leotang315/leotang315.github.io/demo/</guid>
+    <guid>https://leotang315.github.io/demo/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Git简单使用</title>
-    <link>https://github.com/leotang315/leotang315.github.io/git%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link>
+    <link>https://leotang315.github.io/git%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link>
     <pubDate>Mon, 22 Jan 2024 22:12:50 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://github.com/leotang315/leotang315.github.io/git%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</guid>
+    <guid>https://leotang315.github.io/git%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</guid>
     <description><![CDATA[参考https://www.runoob.com/git/git-basic-operations.html 基本操作 git init创建新仓库 git init git clone 克隆仓库 git clone git@github.com:leotang315/aoce.git git config配置用户和邮箱 git config &ndash;list #查看配置
 git config &ndash;global user.name &ldquo;user_name&rdquo; #全局配置
 git config &ndash;global user.email &ldquo;user_email&rdquo;
